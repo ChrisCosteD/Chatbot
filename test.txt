@@ -1,4 +1,8 @@
 hello
+<<<<<<< HEAD
 on est Mai, Chris, Wamwam et KOJO
 on va bien travailler ensemble
 yeah
+=======
+on est 4: Mai, Chris, William, Kodjo
+>>>>>>> 20b24e9c8b39022aa4c2f96ad4bb2191190c0bf2
